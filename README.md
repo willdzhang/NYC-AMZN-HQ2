@@ -1,5 +1,3 @@
-# Project_1
-
 ## Amazon HQ2
 ### If we were Amazon, which city would we choose?
 List of cities in Python syntax:
