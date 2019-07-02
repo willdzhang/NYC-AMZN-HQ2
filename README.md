@@ -36,8 +36,8 @@ How can we include an API in this? (Zillow, Graduate Data?)
 
 ### What we have so far:
 
-![cost](Will/Cost_of_Living_Chart.png)
-![pop](Evan/Charts/Population_in_millions.png)
-![unemployment](Evan/Charts/unemployment_rate.png)
-![Transport](Evan/Charts/summary_plots.png)
-![Transport2](Evan/Charts/scatter_length_v_stations.png)
+![cost](Cost_of_Living_Chart.png)
+![pop](Population_in_millions.png)
+![unemployment](unemployment_rate.png)
+![Transport](Charts/summary_plots.png)
+![Transport2](Charts/scatter_length_v_stations.png)
